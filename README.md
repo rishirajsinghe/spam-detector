@@ -21,11 +21,11 @@ The objective of this project is to build a system that can automatically classi
 
 ```
 spam-detector/
-│── data/ # Dataset (spam.csv)
-│── model/ # Saved model and vectorizer
-│── train.py # Model training script
-│── app.py # Prediction script
-│── requirements.txt # Dependencies
+│── data/ 
+│── model/ 
+│── train.py 
+│── app.py 
+│── requirements.txt 
 ```
 
 ## How It Works
